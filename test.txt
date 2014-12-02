@@ -2,4 +2,8 @@ hoge
 topic1
 topic++
 a
+
 sub
+
+topic2
+
